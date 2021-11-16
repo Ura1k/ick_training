@@ -1,0 +1,9 @@
+/home/uranik/ick_training/chapter_1/CMakeFiles/rebuild_cache.dir
+/home/uranik/ick_training/chapter_1/CMakeFiles/edit_cache.dir
+/home/uranik/ick_training/chapter_1/chapter_0/CMakeFiles/rebuild_cache.dir
+/home/uranik/ick_training/chapter_1/chapter_0/CMakeFiles/edit_cache.dir
+/home/uranik/ick_training/chapter_1/chapter_0/CMakeFiles/chapter_0_executable.dir
+/home/uranik/ick_training/chapter_1/chapter_1/CMakeFiles/rebuild_cache.dir
+/home/uranik/ick_training/chapter_1/chapter_1/CMakeFiles/edit_cache.dir
+/home/uranik/ick_training/chapter_1/chapter_1/CMakeFiles/chapter_1_1_3.dir
+/home/uranik/ick_training/chapter_1/chapter_1/CMakeFiles/chapter_1_1_1.dir
