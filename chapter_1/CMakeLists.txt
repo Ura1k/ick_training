@@ -11,3 +11,7 @@ add_executable( ${PROJECT_NAME}_1_1
 add_executable( ${PROJECT_NAME}_1_3
     src/main_1_3.cpp
 )
+
+add_executable( ${PROJECT_NAME}_1_4
+    src/main_1_4.cpp
+)
